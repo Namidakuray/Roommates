@@ -1,0 +1,17 @@
+{
+  "name": "roommates",
+  "version": "1.0.0",
+  "description": "prueba final modulo 06",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Mario Flores C.",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "nodemailer": "^6.6.3",
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  }
+}
