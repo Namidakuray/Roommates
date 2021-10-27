@@ -1,4 +1,4 @@
-# Información general: bootcamp e-camp
+# Información general:
 - Curso: DESARROLLO DE APLICACIONES FULL STACK JAVASCRIPT TRAINEE
 - Autor: Mario Flores Cruz
 - Módulo: 06 - Desarrollo de backend en node
